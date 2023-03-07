@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LineComparisonDAY8 {
     public static void main(String[] args) {
-        /*Start with Displaying Welcome to Line Comparison Computation Program on Master Branch*/
+        /*Start with Displaying Welcome to Line Comparison Computation Program on main  Branch */
         System.out.println("Welcome to line computation problem");
 
         double x1,x2,y1,y2;
