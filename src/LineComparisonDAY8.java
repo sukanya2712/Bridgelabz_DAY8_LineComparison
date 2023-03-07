@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class LineComparisonDAY8 {
     public static void main(String[] args) {
+
+        /*Start with Displaying Welcome to Line Comparison Computation Program on Master Branch*/
+
         double x1,x2,y1,y2;
 
         Scanner sc = new Scanner(System.in);
