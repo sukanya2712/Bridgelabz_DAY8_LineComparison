@@ -44,5 +44,17 @@ public class LineComparisonDAY8 {
             System.out.println("lengths are not equal");
         }
 
+
+
+        //UC3 USING COMPARE TO HERE, AS ITS GIVEN IN PROBLEM STATEMENT TP COMPARE LINEA AND LINE B.
+        int compare=LineA.compareTo(LineB);
+        System.out.println("Value of comparison" + compare);
+        if(compare==0){
+            System.out.println("lines are equal");
+        }else if(compare>0){
+            System.out.println("lineA is greater then lineB");
+        }else{
+            System.out.println("lineA is less than lineB");
+        }
     }
 }
